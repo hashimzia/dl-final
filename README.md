@@ -29,7 +29,7 @@ To retrain, set `LOAD_WEIGHTS = False` near the top of the notebook.
 
 - `final-override-parser.ipynb`: final Kaggle-facing notebook for the direct
   parser-override system.
-- `starter_notebook_0827_visual_facts.ipynb`: visual-facts variant where parsers add
+- `final_visual_cues.ipynb`: visual-facts variant where parsers add
   extracted image evidence to the prompt, while the VLM still makes the final answer
   decision.
 
